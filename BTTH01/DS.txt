@@ -1,0 +1,7 @@
+name,dob,email,phone
+Huyen, 12,h123@gmail.com,12345
+Linh, 13,l123@gmail.com,12345222
+Giao, 11,g123@gmail.com,1234523
+Nhung, 1,n123@gmail.com,123453534
+Minh, 14,m123@gmail.com,123453545
+Manh, 12,m123@gmail.com,1234535435
